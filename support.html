@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="KørApp Support - Få hjælp og svar på dine spørgsmål.">
+    <title>Support - KørApp</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container nav-container">
+            <a href="/" class="logo">
+                <span class="logo-icon">🚗</span>
+                <span class="logo-text">KørApp</span>
+            </a>
+            <div class="nav-links">
+                <a href="/">Hjem</a>
+                <a href="privacy.html">Privatlivspolitik</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Support Content -->
+    <section class="support-page">
+        <div class="container support-content">
+            <h1>Support</h1>
+            <p class="support-subtitle">Vi er her for at hjælpe dig</p>
+
+            <!-- Contact Card -->
+            <div class="contact-card">
+                <h2>Kontakt os</h2>
+                <p>Har du spørgsmål eller brug for hjælp? Send os en e-mail, så vender vi tilbage hurtigst muligt.</p>
+                <a href="mailto:support@korapp.dk" class="contact-email">
+                    <span>📧</span>
+                    <span>support@korapp.dk</span>
+                </a>
+            </div>
+
+            <!-- FAQ Section -->
+            <div class="faq-section">
+                <h2>Ofte stillede spørgsmål</h2>
+
+                <div class="faq-item active">
+                    <div class="faq-question">Hvordan får jeg adgang til alle spørgsmål?</div>
+                    <div class="faq-answer">
+                        <p>Når du køber KørApp for 99 kr, får du fuld adgang til alle spørgsmål og funktioner. Der er ingen yderligere køb eller abonnementer nødvendige.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">Kan jeg bruge appen offline?</div>
+                    <div class="faq-answer">
+                        <p>Ja! Når du har downloadet appen, kan du øve dig uden internetforbindelse. Din fremgang synkroniseres, når du er online igen.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">Er spørgsmålene de samme som til den rigtige prøve?</div>
+                    <div class="faq-answer">
+                        <p>Vores spørgsmål er udarbejdet til at forberede dig til teoriprøven og dækker alle emner fra færdselsloven. De er dog kun til øvelsesformål og er ikke de officielle prøvespørgsmål.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">Kan jeg få refunderet mit køb?</div>
+                    <div class="faq-answer">
+                        <p>Alle køb håndteres af Apple App Store. Hvis du mener, du er berettiget til refusion, skal du kontakte Apple Support via deres hjemmeside eller "Rapportér et problem" funktionen i din købshistorik.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">Hvordan sletter jeg mine data?</div>
+                    <div class="faq-answer">
+                        <p>Du kan anmode om sletning af dine data ved at sende en e-mail til <a href="mailto:privacy@korapp.dk">privacy@korapp.dk</a>. Vi behandler anmodninger inden for 30 dage i overensstemmelse med GDPR.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">Virker appen på iPad?</div>
+                    <div class="faq-answer">
+                        <p>Ja, KørApp virker på både iPhone og iPad. Din fremgang synkroniseres automatisk på tværs af dine Apple-enheder, når du er logget ind med samme Apple ID.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">Hvor ofte opdateres spørgsmålene?</div>
+                    <div class="faq-answer">
+                        <p>Vi opdaterer regelmæssigt vores spørgsmålsdatabase for at sikre, at indholdet er aktuelt med gældende færdselsregler. Alle opdateringer er inkluderet i dit engangskøb.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-bottom" style="border-top: none; padding-top: 0;">
+                <p>&copy; 2025 KørApp. Alle rettigheder forbeholdes.</p>
+                <p style="margin-top: 1rem;">
+                    <a href="/" style="color: #9ca3af; margin-right: 1rem;">Hjem</a>
+                    <a href="privacy.html" style="color: #9ca3af; margin-right: 1rem;">Privatlivspolitik</a>
+                    <a href="terms.html" style="color: #9ca3af;">Brugervilkår</a>
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // FAQ Accordion
+        document.querySelectorAll('.faq-question').forEach(question => {
+            question.addEventListener('click', () => {
+                const item = question.parentElement;
+                const wasActive = item.classList.contains('active');
+
+                // Close all items
+                document.querySelectorAll('.faq-item').forEach(faq => {
+                    faq.classList.remove('active');
+                });
+
+                // Toggle clicked item
+                if (!wasActive) {
+                    item.classList.add('active');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
