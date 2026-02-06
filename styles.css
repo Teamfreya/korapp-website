@@ -101,6 +101,21 @@ img {
     color: var(--primary-blue);
 }
 
+.lang-switch {
+    background: var(--bg-light);
+    padding: 0.375rem 0.75rem;
+    border-radius: var(--radius-sm);
+    font-size: 0.875rem;
+    border: 1px solid var(--border-color);
+    transition: all 0.2s;
+}
+
+.lang-switch:hover {
+    background: var(--primary-blue);
+    color: white !important;
+    border-color: var(--primary-blue);
+}
+
 /* Hero Section */
 .hero {
     padding: 8rem 0 4rem;

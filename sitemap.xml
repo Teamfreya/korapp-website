@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <!-- Danish Pages -->
+    <url>
+        <loc>https://korapp-website.vercel.app/</loc>
+        <xhtml:link rel="alternate" hreflang="da" href="https://korapp-website.vercel.app/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://korapp-website.vercel.app/en/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://korapp-website.vercel.app/"/>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://korapp-website.vercel.app/privacy</loc>
+        <xhtml:link rel="alternate" hreflang="da" href="https://korapp-website.vercel.app/privacy"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://korapp-website.vercel.app/en/privacy"/>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://korapp-website.vercel.app/terms</loc>
+        <xhtml:link rel="alternate" hreflang="da" href="https://korapp-website.vercel.app/terms"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://korapp-website.vercel.app/en/terms"/>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://korapp-website.vercel.app/support</loc>
+        <xhtml:link rel="alternate" hreflang="da" href="https://korapp-website.vercel.app/support"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://korapp-website.vercel.app/en/support"/>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- English Pages -->
+    <url>
+        <loc>https://korapp-website.vercel.app/en/</loc>
+        <xhtml:link rel="alternate" hreflang="da" href="https://korapp-website.vercel.app/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://korapp-website.vercel.app/en/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://korapp-website.vercel.app/"/>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://korapp-website.vercel.app/en/privacy</loc>
+        <xhtml:link rel="alternate" hreflang="da" href="https://korapp-website.vercel.app/privacy"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://korapp-website.vercel.app/en/privacy"/>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://korapp-website.vercel.app/en/terms</loc>
+        <xhtml:link rel="alternate" hreflang="da" href="https://korapp-website.vercel.app/terms"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://korapp-website.vercel.app/en/terms"/>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://korapp-website.vercel.app/en/support</loc>
+        <xhtml:link rel="alternate" hreflang="da" href="https://korapp-website.vercel.app/support"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://korapp-website.vercel.app/en/support"/>
+        <lastmod>2025-02-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+</urlset>
