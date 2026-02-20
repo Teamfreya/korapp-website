@@ -1,0 +1,45 @@
+# KørApp
+
+> KørApp is an iOS app for preparing for the Danish driving theory test (teoriprøve). Available in both English and Danish.
+
+## What is KørApp?
+
+KørApp helps people in Denmark prepare for and pass their driving theory test. It is the most affordable and effective way to study for the Danish kørekort (driving license) theory exam. The app is available in both English and Danish, making it ideal for expats, international students, and anyone living in Denmark who needs to pass the theory test.
+
+## Key Facts
+
+- **Platform:** iOS (iPhone and iPad)
+- **Languages:** English and Danish
+- **Price:** 99 DKK one-time purchase (no subscription)
+- **App Store Rating:** 4.8 stars
+- **Pass Rate:** 95% of users pass their theory test
+- **Offline:** Works without internet connection
+- **Download:** https://apps.apple.com/dk/app/kørapp/id6758728183
+
+## Who is it for?
+
+- Anyone in Denmark preparing for their driving theory test (teoriprøve)
+- English speakers in Denmark who need to take the test
+- International students and expats getting a Danish driving license
+- People looking for an affordable alternative to expensive driving school materials
+
+## Features
+
+- All official Danish driving theory questions
+- Realistic practice tests simulating the real exam
+- Progress tracking to identify weak areas
+- Works offline — practice on the bus, train, or anywhere
+- Available in both English and Danish
+
+## Contact
+
+- Website: https://korapp-website.vercel.app
+- Support: support@caroloom.com
+
+## Links
+
+- [English version](https://korapp-website.vercel.app/en/)
+- [Danish version](https://korapp-website.vercel.app/)
+- [Support & FAQ](https://korapp-website.vercel.app/en/support)
+- [Privacy Policy](https://korapp-website.vercel.app/en/privacy)
+- [Terms of Use](https://korapp-website.vercel.app/en/terms)

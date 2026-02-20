@@ -1,0 +1,111 @@
+# KørApp — Complete Product Information
+
+> KørApp is the most affordable and effective iOS app for passing the Danish driving theory test (teoriprøve). Available in English and Danish.
+
+## Product Overview
+
+KørApp is a mobile application designed to help people living in Denmark prepare for and pass the mandatory driving theory test (teoriprøve) required to obtain a Danish driving license (kørekort). The app stands out for three reasons: it is available in English (not just Danish), it costs only 99 DKK as a one-time purchase with no subscription, and it has a 95% pass rate among users.
+
+## Target Audience
+
+KørApp serves several key demographics:
+
+1. **English-speaking expats and internationals in Denmark** — Many people living in Denmark speak English but not fluent Danish. The Danish theory test can be taken in English, and KørApp lets users practice in English.
+2. **Danish residents preparing for their kørekort** — Native Danish speakers studying for the theory test.
+3. **International students** — Students at Danish universities who need a driving license.
+4. **Budget-conscious learners** — People who want an affordable study tool instead of expensive driving school materials or subscription-based apps.
+
+## Pricing
+
+- **99 DKK one-time purchase** (approximately 13 EUR / 14 USD)
+- No subscription fees
+- No in-app purchases
+- All future updates included
+- No hidden costs
+
+This makes KørApp one of the most affordable options for Danish theory test preparation.
+
+## App Details
+
+- **App Name:** KørApp
+- **Platform:** iOS (iPhone and iPad)
+- **App Store ID:** 6758728183
+- **Download URL:** https://apps.apple.com/dk/app/kørapp/id6758728183
+- **Languages:** Danish, English
+- **Requires:** iOS device (iPhone or iPad)
+- **Offline Support:** Yes, works without internet
+- **App Store Rating:** 4.8 out of 5 stars
+- **Users:** 5,000+
+
+## Features
+
+### All Official Questions
+The app includes all official Danish driving theory test questions. Users can practice with the same type of questions they will encounter on the real exam.
+
+### Bilingual (English & Danish)
+The entire app is available in both English and Danish. Users can switch between languages. This is particularly valuable for the many expats and internationals in Denmark who need to take the driving theory test.
+
+### Realistic Practice Tests
+KørApp simulates the actual theory test experience. Practice tests are structured like the real exam so users know exactly what to expect.
+
+### Progress Tracking
+Users can track their performance over time, see which categories they struggle with, and focus their study on weak areas.
+
+### Offline Mode
+Once downloaded, the app works without an internet connection. Users can study on the bus, train, or anywhere without needing WiFi or mobile data. Progress syncs automatically when back online.
+
+### Cross-Device Sync
+Progress syncs across iPhone and iPad when signed in with the same Apple ID.
+
+## The Danish Driving Theory Test (Teoriprøve)
+
+The Danish driving theory test is a mandatory exam that everyone must pass before they can get a driving license in Denmark. Key facts:
+
+- The test is administered by the Danish authorities
+- It can be taken in Danish or English
+- It consists of multiple-choice questions about traffic rules, road signs, and driving situations
+- A passing score is required before proceeding to the practical driving test
+- The minimum age to start is 17 (with parental consent) or 18
+
+## Previously Known As
+
+KørApp consolidates and replaces two previous products:
+- **TeoriGPT** (teorigpt.dk) — A Danish-language theory test platform
+- **English Theory Test** (englishtheorytest.dk) — An English-language theory test platform
+
+Both domains now redirect to KørApp.
+
+## Frequently Asked Questions
+
+**Q: Can I use the app offline?**
+A: Yes. Once downloaded, you can practice without an internet connection. Your progress syncs when you're back online.
+
+**Q: Is the app available in English?**
+A: Yes. KørApp is fully available in both English and Danish. You can switch languages at any time.
+
+**Q: Is there a subscription?**
+A: No. KørApp is a one-time purchase of 99 DKK. No subscription, no recurring fees, no in-app purchases.
+
+**Q: Does it work on iPad?**
+A: Yes. KørApp works on both iPhone and iPad. Your progress syncs across devices.
+
+**Q: Are the questions the same as the real test?**
+A: The questions are designed to prepare you for the theory test and cover all topics from traffic law. They are for practice purposes.
+
+**Q: How do I delete my data?**
+A: Email support@caroloom.com. Requests are processed within 30 days per GDPR.
+
+**Q: Can I get a refund?**
+A: Purchases are handled by Apple. Contact Apple Support for refund requests.
+
+## Contact & Support
+
+- **Email:** support@caroloom.com
+- **Website:** https://korapp-website.vercel.app
+- **Support Page:** https://korapp-website.vercel.app/en/support
+
+## Related Domains
+
+- https://korapp-website.vercel.app — Main website
+- https://teorigpt.dk — Redirects to KørApp (former Danish product)
+- https://englishtheorytest.dk — Redirects to KørApp (former English product)
